@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# Power BI Projects
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 <!--
 **Melanee233/Melanee233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
